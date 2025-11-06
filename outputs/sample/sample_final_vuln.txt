@@ -1,0 +1,3 @@
+
+https://sub.example.com/login?username=<script>alert(1)</script>  — sample XSS (dalfox)
+https://api.example.com/v1/item?id=1' OR '1'='1'                — sample SQLi (sqlmap)
