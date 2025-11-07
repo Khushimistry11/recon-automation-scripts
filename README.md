@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Recon Automation Scripts 🚀  
 **Developer:** Khushi Mistry  
 **Focus:** Vulnerability Assessment & Penetration Testing (Recon Phase)
@@ -20,3 +21,6 @@ Bash-based recon automation for VAPT: subdomain discovery, endpoint extraction, 
 
 **Tech stack:** Bash, Linux, Security tools  
 **Keywords:** VAPT • Reconnaissance • Automation • InfoSec
+=======
+A short README — replace this with the full README contents copied from the canvas.
+>>>>>>> d858ff6 (feat: add recon automation scripts & docs)
